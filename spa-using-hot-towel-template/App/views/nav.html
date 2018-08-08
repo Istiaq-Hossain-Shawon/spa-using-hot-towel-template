@@ -1,0 +1,49 @@
+﻿<nav class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+        <a class="brand" href="/">
+            <span class="title">Service Management System</span> 
+        </a>
+        <div class="btn-group" data-bind="foreach: router.navigationModel">
+            <a data-bind="css: { active: isActive }, attr: { href: hash }, text: title,visible:shouldShow"
+               class="btn btn-info" href="#"></a>
+        </div>
+        <div class="loader pull-right" data-bind="css: { active: router.isNavigating }">
+            <div class="progress progress-striped active page-progress-bar">
+                <div class="bar" style="width: 100px;"></div>
+            </div>
+        </div>
+        <div class="btn-group">
+            <button class="btn btn-info dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Setup <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+                <li><a href="#category" data-bind="text:title">Category</a></li>
+                <li><a href="#categoryVm" data-bind="text:title">categoryVm</a></li>
+                <li><a href="#categoryVm">CategoryVM</a></li>
+                <li><a href="#accessories">Accessories</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<style>
+    .navbar {
+        text-transform: uppercase;
+    }
+
+    .navbar-fixed-top {
+        top: 0px;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom {
+        position: fixed;
+        right: 0px;
+        left: 0px;
+        z-index: 1030;
+        margin-bottom: 0px;
+    }
+
+    .navbar {
+        margin-bottom: 0px;
+        overflow: visible;
+    }
+</style>

@@ -1,0 +1,61 @@
+﻿<section>
+    <h2 class="page-title" data-bind="text: title"></h2>
+    <div class="container">
+        <form role="form" id="commentForm" method="POST">
+            <div class="form-actions">
+                <label>Category Name:</label>
+                <input type="text" class="form-actions" data-bind="value:Name " id="cname" name="name" placeholder="Enter Category Name">
+                <!--<span data-bind="visible: isSelected">The textbox has focus</span>-->
+                <label>Category Description:</label>
+                <input type="text" class="form-actions" data-bind="value:Description" placeholder="Enter Category Description">
+            </div>
+            <button type="submit" data-bind="click: save" class="btn btn-default">Save</button>
+
+            <button type="submit" data-bind="click: AllCategory" class="btn btn-default">AllCategory</button>
+            <div class="form-actions">
+
+                <table class="table table-bordered table-condensed" style="border: double">
+                    <thead>
+                        <tr>
+                            <td>ID</td>
+                            <td>Name</td>
+                            <td>Description</td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <!--Iterate through an observableArray using foreach-->
+                    <tbody data-bind="foreach:  movies">
+                        <tr style="border: solid">
+
+                            <!-- ko if: editing -->
+                            <td><input type="text" data-bind="value: Name" /></td>
+                            <td><input type="text" data-bind="value: Description" /></td>
+                            <td>
+                                <button class="btn" data-bind="click: $parent.save">Save</button>
+                                <button class="btn" data-bind="click: $parent.cancel">Cancel</button>
+                            </td>
+                            <!-- /ko -->
+                            <!-- ko ifnot: editing -->
+                            <td><span data-bind="text:  Id"></span></td>
+                            <td><span data-bind="text:  Name"></span></td>
+                            <td><span data-bind="text: Description"></span></td>
+                            <td><button class="btn" data-bind="click: $parent.edit">Edit</button></td>
+                            <!-- /ko -->
+
+
+
+
+                        </tr>
+                    </tbody>
+                </table>
+
+
+
+            </div>
+
+        </form>
+    </div>
+    <script>
+        $("#commentForm").validate();
+    </script>
+</section>

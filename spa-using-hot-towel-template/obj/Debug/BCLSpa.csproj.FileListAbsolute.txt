@@ -1,0 +1,168 @@
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\BCLSpa.dll.config
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\BCLSpa.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\BCLSpa.pdb
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Antlr3.Runtime.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Breeze.WebApi.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\EntityFramework.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Irony.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Microsoft.Web.Infrastructure.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Newtonsoft.Json.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Helpers.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Http.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Mvc.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Optimization.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Razor.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebActivator.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebGrease.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebMatrix.Data.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebMatrix.WebData.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\EntityFramework.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\Newtonsoft.Json.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Helpers.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Http.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Mvc.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.Razor.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebMatrix.Data.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\bin\WebMatrix.WebData.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csprojResolveAssemblyReference.cache
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\obj\Debug\BCLSpa.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\obj\Debug\BCLSpa.pdb
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\obj\Debug\BCLSpa.Migrations.InitialCreate.resources
+F:\DOT NET\Working Area\Excersice\Single page application\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csproj.GenerateResource.Cache
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll.config
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.pdb
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Antlr3.Runtime.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Breeze.WebApi.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Irony.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Infrastructure.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Optimization.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebActivator.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebGrease.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.xml
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csprojResolveAssemblyReference.cache
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.Migrations.InitialCreate.resources
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csproj.GenerateResource.Cache
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.dll
+F:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.pdb
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll.config
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.pdb
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Antlr3.Runtime.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Breeze.WebApi.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Irony.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Infrastructure.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Optimization.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebActivator.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebGrease.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.xml
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csprojResolveAssemblyReference.cache
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.Migrations.InitialCreate.resources
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csproj.GenerateResource.Cache
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.dll
+G:\DOT NET\Working Area\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.pdb
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll.config
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\BCLSpa.pdb
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Antlr3.Runtime.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Breeze.WebApi.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Irony.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Infrastructure.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Optimization.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebActivator.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebGrease.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\EntityFramework.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\Newtonsoft.Json.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Net.Http.Formatting.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Helpers.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Http.WebHost.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Mvc.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.Razor.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Deployment.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\System.Web.WebPages.Razor.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.Data.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\bin\WebMatrix.WebData.xml
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csprojResolveAssemblyReference.cache
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.Migrations.InitialCreate.resources
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.csproj.GenerateResource.Cache
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.dll
+E:\Personal\Excersice\Single page application\BCLBackupSPA\Crud Back Up of BCL\BCLSpa\BCLSpa\obj\Debug\BCLSpa.pdb
